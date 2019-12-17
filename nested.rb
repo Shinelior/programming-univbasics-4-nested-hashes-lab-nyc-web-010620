@@ -89,8 +89,8 @@ def adding_matz
 programmer_hash[:yukihiro_matsumoto]=[:known_for]
 
 
-#
-programmer_hash [:yukihiro_matsumoto][:languages] ="LISP,C" .split(",")
+
+#programmer_hash [:yukihiro_matsumoto][:languages] ="LISP,C" .split(",")
 return programmer_hash
 end
 
